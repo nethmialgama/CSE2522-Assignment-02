@@ -1,0 +1,10 @@
+[Ob]
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.doccache
+TestResults/
